@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Android App</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="button_label">Send Message</string>
+    <string name="welcome_message">Welcome to Message Activity</string>
+    <string name="final_activity_message">Welcom to final Activity</string>
+    <string name="final_activity_button">Open Final Activity</string>
+</resources>
